@@ -25,15 +25,15 @@ npm start
 4. Click the "Generate Password" button.
 5. Your random password will be displayed on the screen.
 
-##Tech Stack
+## Tech Stack
 React: JavaScript library for building user interfaces.
 React Hooks: Functional components and hooks for state management and side effects.
 Tailwind CSS: Utility-first CSS framework for rapidly building custom designs.
 JavaScript: Programming language for web development.
 
-##Contributions
+## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
